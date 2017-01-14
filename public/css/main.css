@@ -39,3 +39,18 @@ h1, h2, h3, h4 {
     font-size: 0.8rem;
     color: #adadad;
 }
+
+.github-corner {
+    fill: #fff;
+    color: #d28445;
+    position: absolute;
+    top: 0;
+    border: 0;
+    right: 0;
+}
+@media (min-width: 48em) {
+    .github-corner {
+        fill: #d28445;
+        color: #fff;
+    }
+}
