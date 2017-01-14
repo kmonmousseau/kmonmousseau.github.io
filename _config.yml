@@ -1,0 +1,33 @@
+title: Kevin Monmousseau
+author: Kevin Monmousseau
+email: k.monmousseau@gmail.com
+description: Développeur PHP/Symfony2
+keywords: Kevin Monmousseau, Développeur, Symfony2, PHP, MySQL, HTML, CSS, RabbitMq, scrum
+baseurl: ""
+url: "http://www.kmonmousseau.com"
+twitter_username: kmonmousseau
+github_username:  kmonmousseau
+markdown: kramdown
+github: https://github.com/kmonmousseau
+
+social:
+    - icon: fa-linkedin
+      link: "https://www.linkedin.com/in/kevin-monmousseau-54784279/"
+      text: "LinkedIn"
+    - icon: fa-twitter
+      link: "https://twitter.com/kmonmousseau"
+      text: "Twitter"
+    - icon: fa-github
+      link: "https://github.com/kmonmousseau"
+      text: "Github"
+    - icon: fa-envelope
+      link: "mailto:k.monmousseau@gmail.com"
+      text: "Email"
+
+exclude:
+    - "docker-compose.yml"
+    - "static"
+    - "README.md"
+    - "posts.html"
+
+default_locale: "fr"
