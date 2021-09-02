@@ -11,9 +11,6 @@ social:
     - icon: fa-linkedin
       link: "https://www.linkedin.com/in/kevin-monmousseau-54784279/"
       text: "LinkedIn"
-    - icon: fa-twitter
-      link: "https://twitter.com/kmonmousseau"
-      text: "Twitter"
     - icon: fa-github
       link: "https://github.com/kmonmousseau"
       text: "Github"
